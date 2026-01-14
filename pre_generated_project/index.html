@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta tags for character set and responsive design -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Todo App</title>
+    <!-- Link to external stylesheet -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Main container for the todo application -->
+    <div class="todo-container">
+        <!-- Application title -->
+        <h1>Simple Todo App</h1>
+
+        <!-- Form to add new tasks -->
+        <form id="task-form">
+            <input type="text" id="new-task" placeholder="Enter a new task" required>
+            <button type="submit">Add</button>
+        </form>
+
+        <!-- List where tasks will be rendered -->
+        <ul id="task-list"></ul>
+    </div>
+
+    <!-- Defer loading of JavaScript to ensure DOM is ready -->
+    <script src="script.js" defer></script>
+</body>
+</html>
