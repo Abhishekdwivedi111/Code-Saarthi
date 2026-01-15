@@ -3,9 +3,9 @@
 Code Saarthi is an AI-powered agentic coding assistant built using **LangGraph** and the **Groq LLM API**.  
 It behaves like a multi-agent software engineering team that converts natural language ideas into fully working projects — including folder structure, source files, and downloadable output.
 
-Users interact through a clean **Streamlit UI**, control recursion depth dynamically, monitor agent activity in real time, and download the generated project as a ZIP file.
+[![Live App](https://img.shields.io/badge/Streamlit-Live-brightgreen)](https://code-saarthi-vbfhhpaqhamgzqsynmpybw.streamlit.app/)
 
----
+Users interact through a clean **Streamlit UI**, control recursion depth dynamically, monitor agent activity in real time, and download the generated project as a ZIP file.
 
 ## ✨ Key Features
 
