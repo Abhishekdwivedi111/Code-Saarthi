@@ -22,13 +22,13 @@ Users interact through a clean **Streamlit UI**, control recursion depth dynamic
 
 ## 🖥️ Demo — User Interface
 
-![Code Saarthi UI](assets/ui.png)
+![Code Saarthi UI](assets/Code_Saarthi_UI.png)
 
 ---
 
 ## 🏗️ System Architecture
 
-![Architecture Diagram](assets/architecture.png)
+![Architecture Diagram](assets/Code_Saarthi_diagram.png)
 
 ### 🧠 Agents Overview
 
